@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\sanks\\Documents\\Unreal Projects\\ProjectAssassin 5.6\\Source\\ProjectAssassin\\MyClass.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\sanks\\Documents\\Unreal Projects\\ProjectAssassin 5.6\\.vscode\\compileCommands_ProjectAssassin\\ProjectAssassin.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sanks\\Documents\\Unreal Projects\\ProjectAssassin 5.6\\Source\\ProjectAssassin\\MyClass.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\sanks\\Documents\\Unreal Projects\\ProjectAssassin 5.6\\.vscode\\compileCommands_ProjectAssassin\\ProjectAssassin.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sanks\\Documents\\Unreal Projects\\ProjectAssassin 5.6\\Source\\ProjectAssassin\\ProjectAssassin.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\sanks\\Documents\\Unreal Projects\\ProjectAssassin 5.6\\.vscode\\compileCommands_ProjectAssassin\\ProjectAssassin.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sanks\\Documents\\Unreal Projects\\ProjectAssassin 5.6\\Source\\ProjectAssassin\\ProjectAssassin.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\sanks\\Documents\\Unreal Projects\\ProjectAssassin 5.6\\.vscode\\compileCommands_ProjectAssassin\\ProjectAssassin.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sanks\\Documents\\Unreal Projects\\ProjectAssassin 5.6\\Source\\ProjectAssassin\\ProjectAssassin.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\sanks\\Documents\\Unreal Projects\\ProjectAssassin 5.6\\.vscode\\compileCommands_ProjectAssassin\\ProjectAssassin.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
